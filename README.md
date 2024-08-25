@@ -1,4 +1,3 @@
-# Tushar-Panwar-21BCE1074
 # Turn-Based Chess-Like Game with WebSocket Communication
 
 **Author:** Tushar Panwar 21BCE1074
